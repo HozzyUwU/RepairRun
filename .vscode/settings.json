@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "RepairRun.sln"
+    "dotnet.defaultSolution": "RepairRun.sln",
+    "dotnet.preferCSharpExtension": true
 }
